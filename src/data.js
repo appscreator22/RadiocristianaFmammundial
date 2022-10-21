@@ -13,12 +13,12 @@ function chillHop() {
             active: true,
         },
         {
-            name:"Nuevo Tiempo",
-            artist: "Nuevotiempo",
+            name:"Cristianos Radio",
+            artist: "CristianosRadio",
             cover: "https://img.freepik.com/vector-gratis/aire-letrero-neon-marco_23-2148818542.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/media-us4k95vs4_b96000_slesp_56673.aac",
+            audio: "https://emisorasvirtuales.com.co:9489/live",
             active: false,
         },
         {
