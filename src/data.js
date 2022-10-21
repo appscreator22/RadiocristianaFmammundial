@@ -13,12 +13,12 @@ function chillHop() {
             active: true,
         },
         {
-            name:"Alma Vision",
-            artist: "AlmaVision",
+            name:"Nuevo Tiempo",
+            artist: "Nuevotiempo",
             cover: "https://img.freepik.com/vector-gratis/aire-letrero-neon-marco_23-2148818542.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "http://94.23.30.114:8318/weys",
+            audio: "https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/media-us4k95vs4_b96000_slesp_56673.aac",
             active: false,
         },
         {
@@ -40,12 +40,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Nueva Vida 97",
-            artist: "NuevaVida",
+            name:"full adventista",
+            artist: "fulladventista",
             cover: "https://img.freepik.com/vector-gratis/silueta-aparato-radio_23-2147501018.jpg",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
-            audio: "http://radio.ministeriotv.com:8042/stream.mp3",
+            audio: "https://server2.ejeserver.com:8457/stream",
             active: false,
         },
         {
